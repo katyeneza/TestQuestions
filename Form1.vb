@@ -11,8 +11,8 @@
             Me.lblAnswer.Text = "Guess numbers lower than 100!"
         ElseIf (intTest1 Or intTest2 Or intTest3) < 1 Then
             Me.lblAnswer.Text = "Guess numbers higher than 0!"
-        ElseIf  Me.lblAnswer.Text = "The average is" & intAverage Then
         Else
+            Me.lblAnswer.Text = "The average is" & intAverage
         End If
     End Sub
 End Class
