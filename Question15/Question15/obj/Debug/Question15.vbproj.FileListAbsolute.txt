@@ -8,3 +8,7 @@ C:\Users\Kit Kat\Documents\GitHub\TestQuestions\Question15\Question15\obj\Debug\
 C:\Users\Kit Kat\Documents\GitHub\TestQuestions\Question15\Question15\obj\Debug\Question15.exe
 C:\Users\Kit Kat\Documents\GitHub\TestQuestions\Question15\Question15\obj\Debug\Question15.xml
 C:\Users\Kit Kat\Documents\GitHub\TestQuestions\Question15\Question15\obj\Debug\Question15.pdb
+H:\GitHub\TestQuestions\Question15\Question15\bin\Debug\Question15.exe.config
+H:\GitHub\TestQuestions\Question15\Question15\obj\Debug\Question15.exe
+H:\GitHub\TestQuestions\Question15\Question15\obj\Debug\Question15.xml
+H:\GitHub\TestQuestions\Question15\Question15\obj\Debug\Question15.pdb

@@ -10,15 +10,15 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("Question16")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Hewlett-Packard")> 
+<Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("Question16")> 
-<Assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2014")> 
+<Assembly: AssemblyCopyright("Copyright ©  2014")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("d7615be7-b51f-42e0-9d39-fc16f86e29a0")> 
+<Assembly: Guid("ae11b98c-a700-4ade-8137-670dedb02fa0")> 
 
 ' Version information for an assembly consists of the following four values:
 '

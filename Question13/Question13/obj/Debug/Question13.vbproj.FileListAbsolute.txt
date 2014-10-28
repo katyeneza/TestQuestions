@@ -1,0 +1,10 @@
+H:\GitHub\Question13\Question13\bin\Debug\Question13.exe.config
+H:\GitHub\Question13\Question13\bin\Debug\Question13.exe
+H:\GitHub\Question13\Question13\bin\Debug\Question13.pdb
+H:\GitHub\Question13\Question13\bin\Debug\Question13.xml
+H:\GitHub\Question13\Question13\obj\Debug\Question13.Form1.resources
+H:\GitHub\Question13\Question13\obj\Debug\Question13.Resources.resources
+H:\GitHub\Question13\Question13\obj\Debug\Question13.vbproj.GenerateResource.Cache
+H:\GitHub\Question13\Question13\obj\Debug\Question13.exe
+H:\GitHub\Question13\Question13\obj\Debug\Question13.xml
+H:\GitHub\Question13\Question13\obj\Debug\Question13.pdb

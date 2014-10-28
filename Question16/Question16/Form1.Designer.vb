@@ -23,28 +23,40 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.btnMessage = New System.Windows.Forms.Button()
+        Me.lblAnswer = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'btnMessage
         '
-        Me.btnMessage.Location = New System.Drawing.Point(79, 49)
+        Me.btnMessage.Location = New System.Drawing.Point(90, 48)
         Me.btnMessage.Name = "btnMessage"
-        Me.btnMessage.Size = New System.Drawing.Size(114, 50)
+        Me.btnMessage.Size = New System.Drawing.Size(89, 43)
         Me.btnMessage.TabIndex = 0
-        Me.btnMessage.Text = "Button1"
+        Me.btnMessage.Text = "Message"
         Me.btnMessage.UseVisualStyleBackColor = True
+        '
+        'lblAnswer
+        '
+        Me.lblAnswer.AutoSize = True
+        Me.lblAnswer.Location = New System.Drawing.Point(131, 190)
+        Me.lblAnswer.Name = "lblAnswer"
+        Me.lblAnswer.Size = New System.Drawing.Size(0, 13)
+        Me.lblAnswer.TabIndex = 1
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Controls.Add(Me.lblAnswer)
         Me.Controls.Add(Me.btnMessage)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents btnMessage As System.Windows.Forms.Button
+    Friend WithEvents lblAnswer As System.Windows.Forms.Label
 
 End Class
